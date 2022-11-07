@@ -1,6 +1,6 @@
-#DL first assignment
+# DL first assignment
 The anomaly percent is about 80%
-#Steps Followed
+# Steps Followed
 The below steps are carried out:
 
 pandas and other packages are imported
@@ -9,7 +9,7 @@ Column names are added
 Only numeric valued columns are retained
 Stats like mean and median are found
 Necessary plots are made and anomalies are plotted in red
-#Formulas used
+# Formulas used
 Mean is sum(X)/len(X)
 Median is mid(sorted(X))
 Min Max Scaler is x' = (x - min(X)) / (max(X) - min(X))
